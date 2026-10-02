@@ -1,0 +1,6 @@
+{
+  "name": "Perennial Films Redesign",
+  "description": "Premium editorial documentary cinema redesign for Perennial Films directed by Joanne Hershfield, featuring integrated VOD, institutional streaming licensing, and streamlined mobile navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
